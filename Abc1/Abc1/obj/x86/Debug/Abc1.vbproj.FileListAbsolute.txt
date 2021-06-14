@@ -1,0 +1,9 @@
+H:\gpn\Abc1\Abc1\obj\x86\Debug\Abc1.Form1.resources
+H:\gpn\Abc1\Abc1\obj\x86\Debug\Abc1.Resources.resources
+H:\gpn\Abc1\Abc1\obj\x86\Debug\Abc1.vbproj.GenerateResource.Cache
+H:\gpn\Abc1\Abc1\bin\Debug\Abc1.exe
+H:\gpn\Abc1\Abc1\bin\Debug\Abc1.pdb
+H:\gpn\Abc1\Abc1\bin\Debug\Abc1.xml
+H:\gpn\Abc1\Abc1\obj\x86\Debug\Abc1.exe
+H:\gpn\Abc1\Abc1\obj\x86\Debug\Abc1.xml
+H:\gpn\Abc1\Abc1\obj\x86\Debug\Abc1.pdb
