@@ -1,0 +1,28 @@
+class box
+{
+  private int a;
+  private int b;
+  public void display()
+   {
+     a=b=20;
+   System.out.println("a"+a+"b="+b);
+   }
+   
+  public copy1(box bb)
+  {  
+    bb.a=230;
+   bb.b=330;
+   
+  }
+}
+
+class exe19
+{
+   public static void main(String[] a)
+   {
+     box b=new box;
+    b.display();
+      box cc=new box(b);
+      
+   }
+}
